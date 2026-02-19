@@ -16,3 +16,9 @@ Obtiene los datos de un **reloj marcador** y genera automáticamente **reportes 
 - Fuente principal: archivo Excel (.xlsx / .xls)
 - Contenido: registros de entrada y salida del personal docente
 - Procesamiento: el script lee el Excel, organiza la información por profesor y genera los reportes en PDF
+  
+## Ejemplo del programa
+Un ejemplo de como se ve el programa ![Pantalla principal](Docs/InicioApp.png) 
+
+## Ejemplo de salida (PDF) 
+Cada profesor recibe un PDF con su registro de asistencia: ![Ejemplo PDF](Docs/Captura de pantalla 2026-02-18 211444.png)
