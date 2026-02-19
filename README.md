@@ -21,4 +21,4 @@ Obtiene los datos de un **reloj marcador** y genera automáticamente **reportes 
 Un ejemplo de como se ve el programa ![Pantalla principal](Docs/InicioApp.png) 
 
 ## Ejemplo de salida (PDF) 
-Cada profesor recibe un PDF con su registro de asistencia: ![Ejemplo PDF](Docs/Captura de pantalla 2026-02-18 211444.png)
+Cada profesor recibe un PDF con su registro de asistencia: ![Ejemplo PDF](Docs/EjemploPDF.png)
