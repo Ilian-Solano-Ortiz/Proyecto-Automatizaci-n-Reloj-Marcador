@@ -10,5 +10,9 @@ Obtiene los datos de un **reloj marcador** y genera automáticamente **reportes 
 
 ## Tecnologías utilizadas
 - Lenguaje: [Python]
-- Librerías principales: [preportlab, iTextSharp, ]
-- Base de datos / formato de entrada: [ejemplo: CSV, SQL, API del reloj marcador]
+- Librerías principales: [Pandas, Openpyxl, Pypdf, Pywin32, Fpdf]
+
+## Base de datos / Formato de entrada
+- Fuente principal: archivo Excel (.xlsx / .xls)
+- Contenido: registros de entrada y salida del personal docente
+- Procesamiento: el script lee el Excel, organiza la información por profesor y genera los reportes en PDF
